@@ -1,0 +1,5 @@
+﻿{
+  "BrowserType": "Chrome",
+  "LogLevel": "All",
+  "BaseUrl": "https://demo.1crmcloud.com/"
+}
